@@ -7,7 +7,7 @@ class Main {
     int foundValue = 1;
     int max = 10;
     int min = 1;
-    int chances = 1;st.clear(); st.clear(); 
+    int chances = 1;
     Random rand = new Random();
     int number = rand.nextInt((max - min) + 1) + min;
     Scanner value = new Scanner(System.in);
